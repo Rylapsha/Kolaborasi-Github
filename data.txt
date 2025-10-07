@@ -1,0 +1,3 @@
+Daftar kontribusi:
+- [ ] Dhini mengisi nama lengkap
+- [ ] Anggota 2 menambahkan satu baris teks di sini.
